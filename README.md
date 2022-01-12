@@ -1,6 +1,6 @@
-# viewport-only-page
+# viewport-width-only-page
 
-viewport only page
+viewport-width-only-page
 
 ## License
 
